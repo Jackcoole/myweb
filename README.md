@@ -1,2 +1,0 @@
-# myweb
-echo 'Hello World!';
